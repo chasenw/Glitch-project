@@ -49,13 +49,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [I used W3 schools so I could remember how to generate random numbers in java. I also used W3 schools to look up different CSS border styles.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[One challenge that I encountered while implementing this project was implementing the logic for winning or losing the game. Although it felt like it would be relatively straightforward, when attempting to implement the logic I realized that there were holes in my understanding with exactly how the game worked, and specifically what exactly certain variables kept track of. Since I am stubborn and did not want to look at the answers, the only way I was able to fix this was by carefully tracing the code and ensuring that I understood what was going on with every line of code. Fortunately, I was eventually able to figure it out]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Seeing how much time and effort goes into implementing a simple game that is quite literally just one web page makes me wonder how complex some of the things that I see on websites are. I would imagine it must be quite difficult to implement some back =end things like trying to gather information from other computers (with something like google) ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had a few more hours, I'd love to implement some of the features I didn't get to like 3 strikes, as well as change the design a bit more. In addition to that though I'd like to make the game feel much more interactive, with continuous messages as you get things right and telling you when your turn is. I think it could also be cool to incorporate an element where notes could be played for different amounts of time, and you would have to play the button for the correct amount of time. Finally I think it might be cool to let the user choose how many buttons they want to have to repeat]
 
 
 
@@ -66,7 +66,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Chase Nwamu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
