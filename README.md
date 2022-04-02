@@ -6,7 +6,7 @@ Submitted by: Chase Nwamu
 
 Time spent: 3.5 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://languid-brash-xylophone.glitch.me/)
 
 ## Required Functionality
 
@@ -61,7 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/f8dfd0e66cf44071abbbb3985b066ed0)
 
 
 ## License
