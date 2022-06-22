@@ -4,7 +4,7 @@
 
 Submitted by: Chase Nwamu
 
-Time spent: 3.5 hours spent in total
+Time spent: 3 hours spent in total
 
 Link to project: (https://languid-brash-xylophone.glitch.me/)
 
